@@ -25,3 +25,7 @@ My Estimate,US East (N. Virginia),Amazon CloudWatch,Amazon CloudWatch,0,78.35000
 
 Acknowledgement
 "* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
+
+I have choose better EC2 instances and RDS instances to reduce the cost,,,,,,,,,
+-EC2 instances: c5.18xlarge with more power from CPU and more RAM,,,,,,,,,
+-RDS instances: db.m5.4xlarge: more power and I also increase the storage to 10000GB,,,,,,,,,
